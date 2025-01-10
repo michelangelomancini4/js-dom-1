@@ -13,6 +13,5 @@ const lampContainer= document.getElementById ('lampcontainer')
 
 function switchOnFunction() {
     
- lampContainer.className = ("lampcontaineroff");
-    
-}
+    lampContainer.className= "lampcontaineroff";
+   }
