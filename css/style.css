@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.blueoption{
+    background-color: blue;
+    color: rgb(255, 255, 255);
+    margin-left: 80px;
+    text-decoration: none;
+    padding: 1%;
+    border-radius: 300px;
+    }
+
+.lampon {
+    display: none;
+}
+.lampoff {
+
+}
