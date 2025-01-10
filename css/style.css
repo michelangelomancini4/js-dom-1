@@ -3,21 +3,34 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-
-
+/* regole bottone */
 .button{
     background-color: blue;
     color: rgb(255, 255, 255);
+    
     margin-left: 80px;
     text-decoration: none;
     padding: 1%;
     border-radius: 300px;
     }
-
+/* regole lampadine */
 .lampon {
     display: none;
 }
 .lampoff {
+ display: block;
+}
+/* regole lamp container */
+#lampcontainer {
+    width: 250px;
+    height: 350px;
+    margin-bottom: 30px;
+}
+.lampcontaineron {
+    background-image: url(./../img/white_lamp.png);
 
+}
+
+.lampcontaineroff {
+    background-image: url(./../img/yellow_lamp.png);
 }
