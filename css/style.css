@@ -13,13 +13,7 @@
     padding: 1%;
     border-radius: 300px;
     }
-/* regole lampadine */
-.lampon {
-    display: none;
-}
-.lampoff {
- display: block;
-}
+
 /* regole lamp container */
 #lampcontainer {
     width: 250px;
